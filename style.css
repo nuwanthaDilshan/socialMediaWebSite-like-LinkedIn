@@ -701,39 +701,39 @@ a{
     font-size: 15px;
 }
 
-.profile-decs-row{
+.profile-desc-row{
     display: flex;
     align-items: flex-start;
     margin: 20px 0;
 }
 
-.profile-decs-row img{
+.profile-desc-row img{
     width: 50px;
     margin-right: 25px;
     margin-top: 5px;
 }
 
-.profile-decs-row div{
+.profile-desc-row div{
     width: 100%;
 }
 
-.profile-decs-row h3{
+.profile-desc-row h3{
     font-size: 18px;
     font-weight: 600;
     color: #333;
 }
 
-.profile-decs-row b{
+.profile-desc-row b{
     display: block;
     font-weight: 600;
     font-size: 15px;
 }
 
-.profile-decs-row p{
+.profile-desc-row p{
     margin-top: 15px;
 }
 
-.profile-decs-row hr{
+.profile-desc-row hr{
     border: 0;
     border-bottom: 1px solid #999;
     margin-top: 10px;
